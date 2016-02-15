@@ -1,0 +1,25 @@
+{
+  "name": "investment_app",
+  "version": "1.0.0",
+  "description": "Class individual project to create an investment app to buy/sell stocks and view one's portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7",
+    "node": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marybethsnodgrass/investment_app.git"
+  },
+  "author": "Marybeth Snodgrass (https://marybethsnodgrass.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marybethsnodgrass/investment_app/issues"
+  },
+  "homepage": "https://github.com/marybethsnodgrass/investment_app#readme"
+}
