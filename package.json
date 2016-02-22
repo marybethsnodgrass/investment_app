@@ -4,8 +4,12 @@
   "description": "Class individual project to create an investment app to buy/sell stocks and view one's portfolio",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
     "mongodb": "^2.1.7",
+    "mongoose": "^4.4.4",
     "node": "0.0.0"
   },
   "devDependencies": {},
